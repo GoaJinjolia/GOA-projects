@@ -22,7 +22,14 @@
 # print(10/5)
 
 #davaleba 4
-name=("giorgi")
-age=14
-print(name)
-print(age)
+# name=("giorgi")
+# age=14
+# print(name)
+# print(age)
+
+#davarleba 5
+# myage=14
+# momage=34
+# print(myage+10)
+# print(momage+10)
+# print(momage/myage)
