@@ -24,10 +24,19 @@
 # elif number <18:
 #     print("you are virgin")
 
-number = int(input("enter your number: "))
-if number == 1:
-    print("tqven amoirchier orshabati")
-elif number == 2:
-    print("tqven amoirchier samshabati")
-else number == 3:
-    print("tqven amoirchier samshabati")
+# davaleba n8
+# number = int(input("enter your number: "))
+# if number == 1:
+#     print("tqven amoirchier orshabati")
+# elif number == 2:
+#     print("tqven amoirchier samshabati")
+# else number == 3:
+#     print("tqven amoirchier otxshabati")
+#     else number == 4:
+#     print("tqven amoirchier xutshabati")
+#     else number == 5:
+#     print("tqven amoirchier paraskevi")
+#     else number == 6:
+#     print("tqven amoirchier shabati")
+#     else number == 7:
+#     print("tqven amoirchier kvira")
