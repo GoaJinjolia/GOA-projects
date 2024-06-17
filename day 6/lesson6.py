@@ -21,6 +21,7 @@ print(name+surname)
 
 
 #davaleba 4
+
 # string=input("enter text here: ")
 # num1=int(input("enter a number here: " ))
 
